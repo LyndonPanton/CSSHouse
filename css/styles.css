@@ -1,0 +1,142 @@
+body {
+    background-color: skyblue;
+}
+
+#chimney {
+    display: block;
+    position: absolute;
+    width: 30px;
+    height: 80px;
+    top: 130px;
+    left: 80px;
+    background-color: #800000;
+    z-index: 2;
+}
+
+#door {
+    display: block;
+    position: absolute;
+    width: 35px;
+    height: 50px;
+    top: 350px;
+    left: 165px;
+    background-color: #4682B4;
+    z-index: 2;
+}
+
+#knob {
+    display: block;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 370px;
+    left: 170px;
+    border-radius: 50%;
+    background-color: #FFFF00;
+    z-index: 3;
+}
+
+#ground {
+    display: block;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 47px;
+    top: 400px;
+    background-color: #008000;
+}
+
+#roof {
+    display: block;
+    position: absolute;
+    top: -20px;
+    left: 20px;
+    width: 120px;
+    height: 60px;
+    border: 100px #000000 solid;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-top-color: transparent;
+    border-bottom-color: #8B4513;
+    z-index: 2;
+}
+
+#smoke1 {
+    display: block;
+    position: absolute;
+    top: 108px;
+    left: 90px;
+    width: 20px;
+    height: 20px;
+    background-color: darkslategrey;
+    border-radius: 50%;
+    z-index: 3;
+}
+
+#smoke2 {
+    display: block;
+    position: absolute;
+    top: 70px;
+    left: 65px;
+    width: 40px;
+    height: 40px;
+    background-color: dimgrey;
+    border-radius: 50%;
+    z-index: 2;
+}
+
+#smoke3 {
+    display: block;
+    position: absolute;
+    top: 5px;
+    left: 80px;
+    width: 70px;
+    height: 70px;
+    background-color: gainsboro;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+#square {
+    display: block;
+    position: absolute;
+    top: 200px;
+    left: 80px;
+    width: 200px;
+    height: 200px;
+    background-color: tan;
+    z-index: 1;
+}
+
+#sun {
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: 245px;
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    background-color: coral;
+}
+
+#windowTL {
+    display: block;
+    position: absolute;
+    top: 260px;
+    left: 105px;
+    width: 40px;
+    height: 40px;
+    background-color: #FFFFFF;
+    z-index: 2;
+}
+
+#windowTR {
+    display: block;
+    position: absolute;
+    top: 260px;
+    left: 215px;
+    width: 40px;
+    height: 40px;
+    background-color: #FFFFFF;
+    z-index: 2;
+}
