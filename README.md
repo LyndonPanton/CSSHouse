@@ -10,7 +10,7 @@
 - This is just a simple drawing made using CSS
 
 ### Preview
-![StartingScreen1](./img/StartingScreen1.png)
-![StartingScreen2](./img/StartingScreen2.png)
-![StartingScreen3](./img/StartingScreen3.png)
-![StartingScreen4](./img/StartingScreen4.png)
+![Screenshot1](./img/Screenshot1.png)
+![Screenshot2](./img/Screenshot2.png)
+![Screenshot3](./img/Screenshot3.png)
+![Screenshot4](./img/Screenshot4.png)
